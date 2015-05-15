@@ -1,0 +1,17 @@
+D:\Master-Window\Firefly\Firefly\bin\Debug\Firefly.exe.config
+D:\Master-Window\Firefly\Firefly\obj\Debug\Firefly.csprojResolveAssemblyReference.cache
+D:\Master-Window\Firefly\Firefly\obj\Debug\Window.baml
+D:\Master-Window\Firefly\Firefly\obj\Debug\Window.g.cs
+D:\Master-Window\Firefly\Firefly\obj\Debug\App.g.cs
+D:\Master-Window\Firefly\Firefly\obj\Debug\Firefly_MarkupCompile.cache
+D:\Master-Window\Firefly\Firefly\obj\Debug\Firefly.g.resources
+D:\Master-Window\Firefly\Firefly\obj\Debug\Firefly.Properties.Resources.resources
+D:\Master-Window\Firefly\Firefly\obj\Debug\Firefly.csproj.GenerateResource.Cache
+D:\Master-Window\Firefly\Firefly\bin\Debug\Firefly.exe
+D:\Master-Window\Firefly\Firefly\bin\Debug\Firefly.pdb
+D:\Master-Window\Firefly\Firefly\obj\Debug\Firefly.exe
+D:\Master-Window\Firefly\Firefly\obj\Debug\Firefly.pdb
+D:\Master-Window\Firefly\Firefly\obj\Debug\Update.baml
+D:\Master-Window\Firefly\Firefly\obj\Debug\Update.g.cs
+D:\Master-Window\Firefly\Firefly\bin\Debug\LZ4.dll
+D:\Master-Window\Firefly\Firefly\bin\Debug\ICSharpCode.SharpZipLib.dll
